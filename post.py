@@ -1,5 +1,5 @@
 import requests
-url = "https://api.cybree.com/v1/instances"
+url = "https://buy.dnspod.cn/buy/check"
 cookies = ""
 headers = {
     "Cookie" : cookies,
